@@ -48,3 +48,13 @@
 #slideposition ul li.active {
   color: #17A2B8;
 }
+
+/* Typed */
+.message-section {
+  background: #000;
+  color: #fff;
+  height: 400px;
+  margin: 40px 0;
+  font-size: 24px
+}
+.message-from-abcci {}
